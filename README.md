@@ -10,7 +10,7 @@ For an immediately usable, binary version of
 the CoinSpyre Core software.
 https://coinspyre.org
 
-## What is CoinSpyre Core?
+## What is CoinSpyre?
 CoinSpyre is a new experimental form of digital
 currency. The CoinSpyre Core connects 
 to the CoinSpyre 
