@@ -1,18 +1,20 @@
-CoinSpyre Blockchain
+# CoinSpyre Blockchain
 
-Coming Soon... This Project Is Still Under Development....
+Coming Soon... This Project Is Still 
+Under Development....
 
-<!--
-**CoinSpyre/CoinSpyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CoinSpyre Core / Staging Tree
+For an immediately usable, binary version of 
+the CoinSpyre Core software.
+https://coinspyre.org
+
+## What is CoinSpyre Core?
+CoinSpyre is a new experimental form of digital
+currency. The CoinSpyre Core connects 
+to the CoinSpyre 
+peer-to-peer network to download and 
+fully validate blocks and transactions. 
+It also includes a wallet and graphical 
+user interface.
