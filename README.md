@@ -19,4 +19,4 @@ user interface.
  ## License
 Dash Core is released under the 
 terms of the MIT license. 
-See [COPYING](/blob/main/LICENSE) for more information or see https://opensource.org/licenses/MIT.
+See [COPYING](CoinSpyre/blob/main/LICENSE) for more information or see https://opensource.org/licenses/MIT.
