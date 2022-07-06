@@ -17,6 +17,5 @@ fully validate blocks and transactions.
 It also includes a wallet and graphical 
 user interface.
  ## License
-Dash Core is released under the 
-terms of the MIT license. 
-See [COPYING](https://github.com/CoinSpyre/CoinSpyre/blob/main/LICENSE) for more information or see https://opensource.org/licenses/MIT.
+CoinSpyre Core is released under the 
+terms of the MIT license. See [COPYING](https://github.com/CoinSpyre/CoinSpyre/blob/main/LICENSE) for more information or see https://opensource.org/licenses/MIT.
